@@ -1,0 +1,5 @@
+.jumbotron {
+  padding-top: 3rem;
+  background-image:url("img/bg.jpg");
+  background-size: cover;
+}
